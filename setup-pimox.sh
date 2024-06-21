@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+# curl https://raw.githubusercontent.com/snooops/setup-pimox/main/setup-pimox.sh | bash
 
 cat > /etc/hosts <<EOF
 127.0.0.1       localhost
